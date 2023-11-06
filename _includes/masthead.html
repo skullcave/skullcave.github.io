@@ -10,11 +10,8 @@
         <div class="site-title">
           <a href="{{ '/' | relative_url }}">
             <span class="unlinked-title">{{ site.masthead_title | default: site.title }}</span>
-          </a>
-          {% if site.subtitle %}
-            <span class="site-subtitle">
-             <a href="{{ '/' | relative_url }}">{{ site.subtitle }}</a>
-            </span>
+            {% if site.subtitle %}
+              <a class="site-subtitle" href="{{ '/' | relative_url }}">{{ site.subtitle }}</a>
           {% endif %}
         </div>
         <ul class="visible-links">
