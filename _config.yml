@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Skull Cave"
+title                    : "Welcome to Skull Cave!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sebastien Arseneault"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sebastien Arseneault"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Cybersecurity enthusiast looking to expand their knowledge."
+  location         : "USA"
   email            :
   links:
     - label: "Email"
