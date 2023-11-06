@@ -110,9 +110,9 @@ author:
   location         : "Virginia, United States"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sebastien-arseneault/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
