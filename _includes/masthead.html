@@ -8,9 +8,13 @@
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
         {% endunless %}
         <div class="site-title">
-          <span>{{ site.masthead_title | default: site.title }}</span>
+          <a href="{{ '/' | relative_url }}">
+            <span class="unlinked-title">{{ site.masthead_title | default: site.title }}</span>
+          </a>
           {% if site.subtitle %}
-           <a href="{{ '/' | relative_url }}"><span class="site-subtitle">{{ site.subtitle }}</span></a>
+            <span class="site-subtitle">
+             <a href="{{ '/' | relative_url }}">{{ site.subtitle }}</a>
+            </span>
           {% endif %}
         </div>
         <ul class="visible-links">
