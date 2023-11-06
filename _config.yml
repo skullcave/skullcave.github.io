@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Sebastien Arseneault"
   avatar           : "/assets/me2.JPG"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cybersecurity enthusiast looking to expand my knowledge."
-  location         : "USA"
+  bio              : "I am a cybersecurity enthusiast looking to expand my knowledge."
+  location         : "Virginia, United States"
   email            :
   links:
     - label: "Email"
