@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "This is a test."
+title:  "Desconstructing a Fake Check Scam"
 ---
 
-# Welcome
+# In my first blog enty I will deconstruct a Social Engineering attempt against me.
 
-**Hello world**, this is my first Jekyll blog post.
 
-I hope you like it!
