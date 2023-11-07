@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Sebastien Arseneault"
   avatar           : "/assets/me3.JPG"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Skull Cave: A place for discussing Cybersecurity related topics."
+  bio              : "Skull Cave: My place for discussing Cybersecurity related topics."
   location         : "Virginia, United States"
   email            :
   links:
