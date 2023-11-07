@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Desconstructing a Fake Check Scam"
+title:  "November 6th, 2023 - Social Engineering"
 ---
-
-# In my first blog enty I will deconstruct a Social Engineering attempt against me.
+# Deconstructing a Fake Check Scam
 
 
