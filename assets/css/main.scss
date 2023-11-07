@@ -9,6 +9,4 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 // Custom CSS
-a {
-  color: green; /* Change 'green' to the desired color */
-}
+<a href="{{ post.link }}" style="color: green;">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
