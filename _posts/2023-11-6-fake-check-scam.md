@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "How I almost got scammed aplying for jobs"
+title:  "How I Almost Got Scammed"
 ---
- <center>On my first entry post I will discuss the time I was almost scammed.</center>
+ <center>For my first post I will discuss the time I was almost scammed and we will look at methods on how to identify misleading emails.</center>
 
 
