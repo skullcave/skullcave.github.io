@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "November 6th, 2023 - Social Engineering"
+title:  "How I almost got scammed aplying for jobs"
 ---
-# <center>Deconstructing a Fake Check Scam</center>
+ <center>On my first entry post I will discuss the time I was almost scammed.</center>
 
 
