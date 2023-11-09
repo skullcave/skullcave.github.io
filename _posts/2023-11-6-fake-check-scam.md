@@ -7,7 +7,7 @@ title:  "How I Was Almost Scammed"
 <div style="padding-left: 30px; font-size: 18px; color: black;">
 
 <i>Sebastien Arseneault</i><br>
-<i>November 8th, 2023</i>
+<i>November 8th, 2023</i><br>
 
 For my first post, I will discuss the time I was almost scammed and we will also look at methods on how to identify misleading emails.
 
