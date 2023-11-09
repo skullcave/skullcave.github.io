@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : ">_ Skull Cave"
+title                    : "C:\Skull Cave"
 title_separator          : "-"
 subtitle                 : "/assets/cave.png"
 name                     : "Sebastien Arseneault"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Sebastien Arseneault"
   avatar           : "/assets/me3.JPG"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My place for discussing Cybersecurity related topics."
+  bio              : "My eJournal for documenting Cybersecurity topics and discussions."
   location         : "Virginia, United States"
   email            :
   links:
