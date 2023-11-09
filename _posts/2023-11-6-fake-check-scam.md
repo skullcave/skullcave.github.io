@@ -8,6 +8,7 @@ title:  "How I Was Almost Scammed"
 
 <i>Sebastien Arseneault</i><br>
 <i>November 8th, 2023</i><br>
+<br>
 
 For my first post, I will discuss the time I was almost scammed and we will also look at methods on how to identify misleading emails.
 
