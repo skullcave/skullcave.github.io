@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I Was Almost Scammed"
+title:  "Entry #1"
 ---
 <h2 style="text-align: center; font-size: 20px;">How I Was Almost Scammed</h2>
 
