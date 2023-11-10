@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "gn0me"
+  name             : "sebastien_arseneault"
   avatar           : "/assets/me3.JPG"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My eJournal for documenting Cybersecurity topics and discussions."
   location         : "Virginia, United States"
