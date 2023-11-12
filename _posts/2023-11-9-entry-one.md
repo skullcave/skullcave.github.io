@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "1"
+title:  "How I Was Almost Scammed"
 ---
-<h2 style="text-align: center; font-size: 20px;">How I Was Almost Scammed</h2>
+<h2 style="text-align: center; font-size: 20px;">Entry #1</h2>
 
 <div style="padding-left: 30px; font-size: 18px; color: black;">
 
