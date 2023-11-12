@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "☠"
+  name             : "⌘"
   avatar           : "/assets/cli.png"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "eJournal for documenting Cybersecurity topics and discussions."
   location         : "the internet"
