@@ -6,7 +6,6 @@ title:  "Entry #1"
 
 <div style="padding-left: 30px; font-size: 18px; color: black;">
 
-<i>Sebastien Arseneault</i><br>
 <i>November 8th, 2023</i><br>
 <br>
 
