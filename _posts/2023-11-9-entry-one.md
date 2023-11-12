@@ -2,7 +2,7 @@
 layout: post
 title:  "Entry #1"
 ---
-<h2 style="text-align: center; font-size: 20px;">How I Was Almost Scammed</h2>
+<h2 style="text-align: center; font-size: 20px;">How I Was Almost Scammed</h2><br>
 
 <div style="padding-left: 30px; font-size: 18px; color: white;">
 
