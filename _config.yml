@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "☠"
-  avatar           : "/assets/me3.JPG"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/pirate_flag.JPG"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My eJournal for documenting Cybersecurity topics and discussions."
   location         : "the internet"
   email            :
