@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "☠"
   avatar           : "/assets/cli.png"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My eJournal for documenting Cybersecurity topics and discussions."
+  bio              : "eJournal for documenting Cybersecurity topics and discussions."
   location         : "the internet"
   email            :
   links:
