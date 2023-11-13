@@ -12,6 +12,10 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    <!-- Add the following lines for the favicon -->
+    <link rel="icon" href="/assets/skull cave logo.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="/assets/skull cave logo.png" type="image/x-icon" />
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
