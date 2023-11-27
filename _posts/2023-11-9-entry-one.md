@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Entry #1"
+title:  "How I Was Almost Scammed"
 ---
 <style>
   .indented-text {
@@ -14,7 +14,10 @@ title:  "Entry #1"
 <h2 style="text-align: center; font-size: 20px;">How I Was Almost Scammed</h2>
 
 <div class="indented-text">
-  <i>November 8th, 2023</i><br>
+  <i>November 26th, 2023</i><br>
+  <br>
+
+  <i>Topics Discussed: Phishing, Social Engineering, and OSINT.</i><br>
   <br>
 
   For my first post, I will discuss the time I was almost scammed and how to identify misleading emails.<br>
