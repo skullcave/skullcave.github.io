@@ -21,7 +21,7 @@ title:  "How I Was Almost Scammed"
   <i>November 26th, 2023</i><br>
   <br>
 
-  <u class="underline"><i>Topics Discussed: Phishing, Social Engineering, and OSINT.</i></u><br>
+  <i class="underline">Topics Discussed:</i> Phishing, Social Engineering, and OSINT.<br>
   <br>
 
   For my first post, I will discuss the time I was almost scammed and we will look at how to identify misleading emails.<br>
@@ -29,4 +29,3 @@ title:  "How I Was Almost Scammed"
 
   First, let's talk about how I find myself in this position and respond to it. On October 7th, I was emailed by an "HR Team" member with the company 'Avalon Flooring' in regards to a job position of Network Administrator. I thought great! I was in the process of applying to IT / Cybersecurity related jobs, and I sent out many applications during this period of time.
 </div>
-
