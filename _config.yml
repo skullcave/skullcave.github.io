@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "(⌐⊙_⊙)"
   avatar           : "/assets/skull cave logo.png"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "skullcave is a place for documenting cybersecurity topics and discussions."
+  bio              : "skullcave is a blog for discussing cybersecurity topics."
   location         : "the internet"
   email            :
   links:
