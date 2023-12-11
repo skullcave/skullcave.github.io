@@ -1,4 +1,4 @@
-  ---
+---
 layout: post
 title:  "How I Was Almost Scammed"
 ---
