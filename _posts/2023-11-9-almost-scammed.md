@@ -9,7 +9,7 @@ date: 2023-11-9
 <style>
   .indented-text {
     margin-left: 30px;
-    margin-right: 60px;
+    margin-right: 30px;
     font-size: 18px;
     color: white;
   }
@@ -30,6 +30,12 @@ date: 2023-11-9
     display: block; /* Center the image within its container */
     margin: 0 auto; /* Add margin to center the image */
     object-fit: cover; /* Maintain aspect ratio and cover the container */
+  }
+
+  @media (max-width: 600px) {
+    .indented-text {
+      margin-right: 10px; /* Adjust the right margin for smaller screens */
+    }
   }
 </style>
 
