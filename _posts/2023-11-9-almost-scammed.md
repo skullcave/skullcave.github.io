@@ -27,5 +27,8 @@ title:  "How I Was Almost Scammed"
   For my first post, I will discuss the time I was almost scammed and we will also look at how to identify misleading emails.<br>
   <br>
 
-  First, let's talk about how I find myself in this position and respond to it. On October 7th, I was emailed by an "HR Team" member with the company 'Avalon Flooring' in regards to a job position of Network Administrator. I thought great! I was in the process of applying to IT / Cybersecurity related jobs, and I sent out many applications during this period of time. 
+  First, let's talk about how I find myself in this position and respond to it. On October 7th, I was emailed by an "HR Team" member with the company 'Avalon Flooring' in regards to a job position of Network Administrator. I thought great! I was in the process of applying to IT / Cybersecurity related jobs, and I sent out many applications during this period of time. The inital e-mail seemed legit from the jump, it had a solid sounding domain name 'edward@avalonflooringrecruit.com' and had a company logo in the siganture. Being the expert that I am in this industry *sarcasm* I should have caught this. Below is a screen shot of the first e-mail that reeled me in. 
+
+  <img src="/assets/posts/scam-one.pmg" alt="first screen shot of scam">
+
 </div>
