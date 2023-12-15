@@ -18,18 +18,14 @@ date: 2023-11-9
     text-decoration: underline;
   }
 
-  .post-image-container {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    float: left; /* Align the image to the left */
-    clear: both; /* Clear the float to prevent layout issues */
-  }
-
   .post-image {
     max-width: 100%;
     height: auto;
     display: block;
-    object-fit: cover;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: left; /* Align the image to the left */
+    clear: both; /* Clear the float to prevent layout issues */
   }
 
   @media (max-width: 600px) {
