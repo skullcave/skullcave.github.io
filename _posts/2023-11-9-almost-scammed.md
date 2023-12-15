@@ -56,4 +56,11 @@ date: 2023-11-9
    <div class="post-image-container">
     <img class="post-image" src="/assets/posts/scam-two.png" alt="second screenshot of scam">
   </div>
+
+This attachment was a PDF file that required you to fill out your name and then answer a series of questions pertaing to computer networking. Some of these questions required the candidate to explain which tools to support remote troubleshooting and how to handle network scalability to name a few. In this same document it further stated the work scheudle, benefits and the pay range for this posotion. So of course, I answered the questions the best I could with the knowledge I had relating to computer networking. Here was their response. 
+
+ <div class="post-image-container">
+    <img class="post-image" src="/assets/posts/scam-three.png" alt="third screenshot of scam">
+  </div>
+  
 </div>
