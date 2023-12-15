@@ -22,6 +22,7 @@ date: 2023-11-9
     margin-top: 20px;
     margin-bottom: 20px;
     float: left; /* Align the image to the left */
+    clear: both; /* Clear the float to prevent layout issues */
   }
 
   .post-image {
