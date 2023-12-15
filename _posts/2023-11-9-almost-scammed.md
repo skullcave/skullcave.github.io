@@ -62,5 +62,7 @@ This attachment was a PDF file that required you to fill out your name and then 
  <div class="post-image-container">
     <img class="post-image" src="/assets/posts/scam-three.png" alt="third screenshot of scam">
   </div>
+
+This is the best part of the scam, the wait. It took two days to hear back from the "recruiter" and this is what made feel like this was legit. We have all been there, waiting on edge to see if we progressed in the hiring process, espcially a remote job with lucrative pay. However, the contents within this final e-mail is what raised the alarm.
   
 </div>
