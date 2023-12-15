@@ -22,12 +22,10 @@ date: 2023-11-9
     text-align: center; /* Center the image within its container */
     margin-top: 20px; /* Add margin at the top for space */
     margin-bottom: 20px; /* Add margin at the bottom for space */
-    max-width: 100%; /* Ensure the container doesn't exceed the viewport width */
-    overflow: hidden; /* Hide any overflow, especially for small screens */
   }
 
   .post-image {
-    width: 100%; /* Make the image fill its container */
+    max-width: 100%; /* Ensure the image doesn't exceed its container width */
     height: auto; /* Maintain aspect ratio */
     display: block; /* Center the image within its container */
     margin: 0 auto; /* Add margin to center the image */
@@ -42,17 +40,7 @@ date: 2023-11-9
   For my first post, I will discuss the time I was almost scammed and we will also look at how to identify misleading emails.<br><br>
   First, let's talk about how I find myself in this position and respond to it. On October 7th, I was emailed by an "HR Team" member with the company 'Avalon Flooring' in regards to a job position of Network Administrator. I thought great! I was in the process of applying to IT / Cybersecurity related jobs, and I sent out many applications during this period of time. The initial e-mail seemed legit from the jump; it had a solid sounding domain name 'edward@avalonflooringrecruit.com' and had a company logo in the signature. Being the expert that I am in this industry <em>&#42;sarcasm&#42;</em> I should have caught this. Below is a screenshot of the first e-mail that reeled me in.
   
-  <a href="/assets/posts/scam-one.png" data-fancybox="gallery" data-caption="Caption for Image 1">
-    <div class="post-image-container">
-      <img class="post-image" src="/assets/posts/scam-one.png" alt="first screenshot of scam">
-    </div>
-  </a>
+  <div class="post-image-container">
+    <img class="post-image" src="/assets/posts/scam-one.png" alt="first screenshot of scam">
+  </div>
 </div>
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
-<script>
-  $(document).ready(function() {
-    $("[data-fancybox]").fancybox();
-  });
-</script>
