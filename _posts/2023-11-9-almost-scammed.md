@@ -9,7 +9,7 @@ date: 2023-11-9
 <style>
   .indented-text {
     margin-left: 30px;
-    margin-right: 50px;
+    margin-right: 60px;
     font-size: 18px;
     color: white;
   }
