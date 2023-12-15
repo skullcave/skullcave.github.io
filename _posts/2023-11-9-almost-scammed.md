@@ -42,17 +42,17 @@ date: 2023-11-9
   For my first post, I will discuss the time I was almost scammed and we will also look at how to identify misleading emails.<br><br>
   First, let's talk about how I find myself in this position and respond to it. On October 7th, I was emailed by an "HR Team" member with the company 'Avalon Flooring' in regards to a job position of Network Administrator. I thought great! I was in the process of applying to IT / Cybersecurity related jobs, and I sent out many applications during this period of time. The initial e-mail seemed legit from the jump; it had a solid sounding domain name 'edward@avalonflooringrecruit.com' and had a company logo in the signature. Being the expert that I am in this industry <em>&#42;sarcasm&#42;</em> I should have caught this. Below is a screenshot of the first e-mail that reeled me in.
   
-  <a href="/assets/posts/scam-one.png" data-lightbox="image-1" data-title="Caption for Image 1">
+  <a href="/assets/posts/scam-one.png" data-fancybox="gallery" data-caption="Caption for Image 1">
     <div class="post-image-container">
       <img class="post-image" src="/assets/posts/scam-one.png" alt="first screenshot of scam">
     </div>
   </a>
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 <script>
-  lightbox.option({
-    'resizeDuration': 200,
-    'wrapAround': true
-  })
+  $(document).ready(function() {
+    $("[data-fancybox]").fancybox();
+  });
 </script>
