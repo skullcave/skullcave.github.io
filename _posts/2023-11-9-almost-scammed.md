@@ -2,6 +2,7 @@
 layout: post
 title: "How I Was Almost Scammed"
 ---
+
 <style>
   .indented-text {
     margin-left: 30px;
@@ -23,6 +24,8 @@ title: "How I Was Almost Scammed"
   .post-image {
     max-width: 100%; /* Ensure the image doesn't exceed its container width */
     height: auto; /* Maintain aspect ratio */
+    display: block; /* Center the image within its container */
+    margin: 0 auto; /* Add margin to center the image */
   }
 </style>
 
