@@ -12,7 +12,7 @@ title: "How I Was Almost Scammed"
   <meta property="og:description" content="Discussing phishing, social engineering, and OSINT.">
   <meta property="og:type" content="article">
   <meta property="og:url" content="https://skullcave.github.io/almost-scammed/">
-  <meta property="og:image" content="https://skullcave.github.io/assets/posts/scam-one.png">
+  <meta property="og:image" content="https://skullcave.github.io/assets/skull cave logo.png">
   <title>How I Was Almost Scammed</title>
   <!-- Add your other head elements here -->
 </head>
