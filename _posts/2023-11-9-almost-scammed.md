@@ -3,7 +3,7 @@ layout: post
 title: "How I Was Almost Scammed"
 description: "Discussing the time I was almost scammed and how to identify misleading emails."
 author: "Sebastien Arseneault"
-date: 2023-12-27
+date: 2023-11-9
 ---
 
 <style>
