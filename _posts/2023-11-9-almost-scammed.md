@@ -73,6 +73,14 @@ This is the best part of the scam, the wait. It took two days to hear back from 
 
 In this fourth and final e-mail, I have highlighted the key indicators of this being a fraudulent job offer. First, 60 USD an hour is quite a lot of money and in my experience amounts like this are usually discussed during virtual or in person interview. Secondly, a user ID and password will be given to a new employee after 5 days?? This seems a little odd to me because there usually an onbaording process as well as allowing more time to pass before given new employees sensitve credentials. Thirdly and most importantly is the check they were going to send me. This is the most important part of the scam because this is how they profit. <br><br>
 
-According to the FTC (2022) "in a fake check scam, a person you don’t know asks you to deposit a check". In the red rectangle we will see that this indivudial is asking for my full complete name, full mailing address, and further contact information such as my phone number. I believe that this information would have been used to generate a fake check that would then be mailed directly to me. At this point in the scam, the scammer will then ask for money back from the victim. Often times the scammer will ask for this in the form of a gift card. 
+According to the FTC (2022) "in a fake check scam, a person you don’t know asks you to deposit a check". In the red rectangle we will see that this indivudial is asking for my full complete name, full mailing address, and further contact information such as my phone number. I believe that this information would have been used to generate a fake check that would then be mailed directly to me. At this point in the scam, the scammer will then ask for money back from the victim. Often times the scammer will ask for this in the form of a gift card. <br><br>
+
+At this point I began to do a little digging. Starting with the basics, I found Avalon Flooring USA on LinkedIn. 
+
+<div class="post-image-container">
+    <img class="post-image" src="/assets/posts/avalon-flooring.png" alt="Avalon Flooring">
+  </div>
+
+From here I searched the employees list for an "Edward Robinson", no luck. Then, I called their number to inform them about a potential scam going around that is using thier name to support it. I was to connect with a helpful customer service represenative and she explained to me that this scam has been ongoing for awhile. 
   
 </div>
