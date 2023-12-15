@@ -29,6 +29,7 @@ date: 2023-11-9
     height: auto; /* Maintain aspect ratio */
     display: block; /* Center the image within its container */
     margin: 0 auto; /* Add margin to center the image */
+    object-fit: cover; /* Maintain aspect ratio and cover the container */
   }
 </style>
 
