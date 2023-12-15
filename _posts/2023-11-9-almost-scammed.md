@@ -45,9 +45,11 @@ date: 2023-11-9
   <i>December 27th, 2023</i><br><br>
   <i class="underline">Topics Discussed:</i> Phishing, Social Engineering, and OSINT.<br><br>
   For my first post, I will discuss the time I was almost scammed and we will also look at how to identify misleading emails.<br><br>
-  First, let's talk about how I find myself in this position and respond to it. On October 7th, I was emailed by an "HR Team" member with the company 'Avalon Flooring' in regards to a job position of Network Administrator. I thought great! I was in the process of applying to IT / Cybersecurity related jobs, and I sent out many applications during this period of time. The initial e-mail seemed legit from the jump; it had a solid sounding domain name 'edward@avalonflooringrecruit.com' and had a company logo in the signature. Being the expert that I am in this industry <em>&#42;sarcasm&#42;</em> I should have caught this. Below is a screenshot of the first e-mail that reeled me in.
+  First, let's talk about how I found myself in this position and how I responded to it. On October 7th, I was emailed by an "HR Team" member with the company 'Avalon Flooring' in regards to a job position titled Network Administrator. I thought great! I was in the process of applying to IT / Cybersecurity related jobs, and I sent out many applications during this period of time. The initial e-mail seemed legit from the jump; it had a solid sounding e-mail name 'edward@avalonflooringrecruit.com' and had a company logo in the signature. Being the expert that I am in this industry <em>&#42;sarcasm&#42;</em> I should have caught this. Below is a screenshot of the first e-mail that reeled me in.
   
   <div class="post-image-container">
     <img class="post-image" src="/assets/posts/scam-one.png" alt="first screenshot of scam">
   </div>
+
+  In the red rectangles you will see both the e-mail name and the signature of the e-mail. At a quick glance this all seems normal but upon further inspection something seems fishy. It simply states "HR Team". Typically employees of companies will list their position title along with what departement they work in within the company. If I had caught this sooner, I might have raise some alarm bells in my head. Regardless, lets see of this e-mail chain progresses. 
 </div>
