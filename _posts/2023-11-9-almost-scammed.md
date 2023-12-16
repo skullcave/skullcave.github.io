@@ -84,5 +84,10 @@ At this point I began to do a little digging. Starting with the basics, I found 
 From here I searched the employees list for “Edward Robinson", no luck. Then, I called their number to inform them about a potential scam going around that is using their name to support it. Next, I was connected with a helpful customer service representative, and she explained to me that this scam has been ongoing for a while.
 
 <p style="text-align: center;"><strong><em>Key Takeaways</em></strong></p>
+
+*References* 
+
+FTC. (2022). How to spot, avoid, and report fake check scams.
+  https://consumer.ftc.gov/articles/how-spot-avoid-report-fake-check-scams
   
 </div>
