@@ -85,7 +85,9 @@ From here I searched the employees list for “Edward Robinson", no luck. Then, 
 
 <p style="text-align: center;"><strong><em>Key Takeaways</em></strong></p>
 
-<p style="text-align: center;"><strong><em>References*</em></strong></p>
+test
+
+<p style="text-align: center;"><strong><em>References</em></strong></p>
 
 <em>FTC. (2022). <a href="https://consumer.ftc.gov/articles/how-spot-avoid-report-fake-check-scams" target="_blank">How to spot, avoid, and report fake check scams.</a></em>
 
