@@ -53,7 +53,7 @@ First, let's talk about how I found myself in this position and how I responded 
     <img class="post-image" src="/assets/posts/scam-one.png" alt="first screenshot of scam">
   </div>
 
-In the red rectangles you will see both the e-mail name and the signature of the e-mail. At a quick glance this all seems normal but upon further inspection something seems fishy. It simply states "HR Team". Typically, employees of companies will list their position title along with what department they work in within the company. If I had caught this sooner, I might have raised some alarm bells in my head. Regardless, let’s see how this e-mail chain progresses:
+In the red rectangles you will see both the e-mail name and the signature of the e-mail. At a quick glance this all seems normal but upon further inspection something seems fishy. It simply states "HR Team". Typically, employees of companies will list their position title along with what department they work in within the company. If I had caught this sooner, it might have raised some alarm bells in my head. Regardless, let’s see how this e-mail chain progresses:
 
    <div class="post-image-container">
     <img class="post-image" src="/assets/posts/scam-two.png" alt="second screenshot of scam">
