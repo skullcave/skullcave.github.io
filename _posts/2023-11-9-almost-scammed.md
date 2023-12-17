@@ -85,7 +85,7 @@ From here I searched the employees list for “Edward Robinson", no luck. Then, 
 
 <p style="text-align: center;"><strong><em>Key Takeaways</em></strong></p>
 
-test
+I believe there are some important topics to discuss within this scenario. This e-mail is a cleverly crafted socially engineering scam that preys on individuals who are in search of a job. 
 
 <p style="text-align: center;"><strong><em>References</em></strong></p>
 
