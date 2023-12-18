@@ -1,8 +1,9 @@
 /* _sass/styles.css */
 
 .post-image {
-  max-width: 100%;
+  width: 100%; /* Set the width to 100% for responsiveness */
   height: auto;
+  max-width: 100%; /* Ensure the image doesn't exceed its container width */
   display: block;
   margin: 0 auto;
   object-fit: cover;
