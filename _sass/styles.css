@@ -14,7 +14,7 @@
   margin: 0 auto; /* Add margin to center the image */
 }
 
-@media only screen and (max-width: 600px) {
+@media (max-width: 600px) {
   .post-image {
     width: 100%; /* Adjust for smaller screens */
   }
