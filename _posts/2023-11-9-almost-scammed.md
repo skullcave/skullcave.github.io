@@ -49,9 +49,9 @@ date: 2023-11-9
   
 First, let's talk about how I found myself in this position and how I responded to it. On October 7th, 2023, I was emailed by an "HR Team" member with the company 'Avalon Flooring' about a job position titled Network Administrator. I thought great! I was in the process of applying for IT / Cybersecurity related jobs, and I sent out many applications during this period. The initial e-mail seemed legit from the outset; it had a solid sounding e-mail name 'edward@avalonflooringrecruit.com' and had a company logo in the signature. Being the expert that I am in this industry <em>&#42;sarcasm&#42;</em> I should have caught this. Below is a screenshot of the first e-mail that reeled me in:
   
-  <div class="post-image-container">
-    ![First Screenshot](/assets/posts/scam-one.png){: .post-image }
-  </div>
+<div class="post-image-container">
+  <img src="/assets/posts/scam-one.png" alt="First Screenshot" class="post-image">
+</div>
 
 In the red rectangles you will see both the e-mail name and the signature of the e-mail. At a quick glance this all seems normal but upon further inspection something seems phishy. It simply states "HR Team". Typically, employees of companies will list their position title along with what department they work in within the company. If I had caught this sooner, it might have raised some alarm bells in my head. Regardless, let’s see how this e-mail chain progresses:
 
