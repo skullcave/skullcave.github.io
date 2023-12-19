@@ -19,7 +19,7 @@ date: 2023-11-9
   }
 
   .post-image-container {
-    text-align: center; /* Center the image within its container */
+    text-align: left; /* Center the image within its container */
     margin-top: 20px; /* Add margin at the top for space */
     margin-bottom: 20px; /* Add margin at the bottom for space */
   }
