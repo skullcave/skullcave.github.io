@@ -8,11 +8,12 @@ date: 2023-11-9
 
 <style>
   .indented-text {
-    margin-left: 30px;
-    margin-right: 30px;
-    font-size: 18px;
-    color: white;
-  }
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px; /* Adjust the maximum width based on your preference */
+  font-size: 18px;
+  color: white;
+}
   .underline {
     text-decoration: underline;
   }
