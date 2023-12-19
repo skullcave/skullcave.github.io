@@ -27,13 +27,9 @@ date: 2023-11-9
 .post-image {
   float: left;
   margin-right: 20px; /* Adjust the right margin for spacing */
-  max-width: 40%; /* Adjust the maximum width as needed */
+  max-width: 100%;
   height: auto;
   display: block;
-}
-
-.clear-after-image {
-  clear: left;
 }
   @media (max-width: 600px) {
     .indented-text {
