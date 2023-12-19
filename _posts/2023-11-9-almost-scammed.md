@@ -13,20 +13,17 @@ date: 2023-11-9
     font-size: 18px;
     color: white;
   }
-
   .underline {
     text-decoration: underline;
   }
-  
 .post-image-container {
   margin-top: 20px;
   margin-bottom: 20px;
   overflow: hidden; /* Ensure container clears floated content */
 }
-
 .post-image {
   float: left;
-  margin-right: 20px; /* Adjust the right margin for spacing */
+  margin-right: 10px; /* Adjust the right margin for spacing */
   max-width: 100%;
   height: auto;
   display: block;
