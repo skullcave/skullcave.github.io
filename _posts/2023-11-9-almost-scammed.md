@@ -8,9 +8,9 @@ date: 2023-11-9
 
 <style>
   .indented-text {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 800px; /* Adjust the maximum width based on your preference */
+  margin-left: 20px;
+  margin-right: 20px;
+  max-width: calc(100% - 40px);
   font-size: 18px;
   color: white;
 }
@@ -30,9 +30,11 @@ date: 2023-11-9
   display: block;
 }
   @media (max-width: 600px) {
-    .indented-text {
-      margin-right: 10px; /* Adjust the right margin for smaller screens */
-    }
+  .indented-text {
+    margin-left: 10px;
+    margin-right: 10px;
+    max-width: calc(100% - 20px);
+  }
   }
 </style>
 
