@@ -1,17 +1,17 @@
 /* _sass/styles.css */
 
 .post-image-container {
-  text-align: center;
+  float: left;
   margin-top: 20px;
+  margin-right: 20px; /* Adjust the right margin for spacing */
   margin-bottom: 20px;
 }
 
 .post-image {
-  width: 100%; /* Ensure the image takes up 100% of its container width */
-  height: auto; /* Maintain aspect ratio */
-  max-width: 100%; /* Ensure the image doesn't exceed its container width */
-  display: block; /* Center the image within its container */
-  margin: 0 auto; /* Add margin to center the image */
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 @media (max-width: 600px) {
