@@ -42,7 +42,7 @@ date: 2023-11-9
 
 <div class="indented-text">
   <i>December 27th, 2023</i><br><br>
-  <i class="underline">Topics Discussed:</i> Phishing, Social Engineering, and OSINT.<br><br>
+  <i class="underline">Topics Discussed:</i> Phishing, Social Engineering, and Open Source Intelligence (OSINT).<br><br>
   
   For my first post, I will discuss the time I was almost scammed and we will also look at how to identify misleading e-mails.<br><br>
   
