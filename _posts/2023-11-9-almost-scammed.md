@@ -17,21 +17,20 @@ date: 2023-11-9
   .underline {
     text-decoration: underline;
   }
+  
+.post-image-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  overflow: hidden; /* Ensure container clears floated content */
+}
 
-  .post-image-container {
-    text-align: left; /* Center the image within its container */
-    margin-top: 20px; /* Add margin at the top for space */
-    margin-bottom: 20px; /* Add margin at the bottom for space */
-  }
-
-  .post-image {
-    max-width: 100%; /* Ensure the image doesn't exceed its container width */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Center the image within its container */
-    margin: 0 auto; /* Add margin to center the image */
-    object-fit: cover; /* Maintain aspect ratio and cover the container */
-  }
-
+.post-image {
+  float: left;
+  margin-right: 20px; /* Adjust the right margin for spacing */
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
   @media (max-width: 600px) {
     .indented-text {
       margin-right: 10px; /* Adjust the right margin for smaller screens */
