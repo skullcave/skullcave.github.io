@@ -46,7 +46,7 @@ date: 2023-11-9
   
   For my first post, I will discuss the time I was almost scammed and we will also look at how to identify misleading e-mails.<br><br>
   
-First, let's talk about how I found myself in this position and how I responded to it. On October 7th, 2023, I was emailed by an "HR Team" member with the company 'Avalon Flooring' about a job position titled Network Administrator. I thought great! I was in the process of applying for IT / Cybersecurity related jobs, and I sent out many applications during this period. The initial e-mail seemed legit from the outset; it had a solid sounding e-mail name 'edward@avalonflooringrecruit.com' and had a company logo in the signature. Being the expert that I am in this industry <em>&#42;sarcasm&#42;</em> I should have caught this. Below is a screenshot of the first e-mail that reeled me in:
+First, let's talk about how I found myself in this position and how I responded to it. On October 7th, 2023, I was emailed by an "HR Team" member with the company 'Avalon Flooring' about a job position titled Network Administrator. I thought great! I was in the process of applying for IT / Cybersecurity related jobs, and I sent out many applications during this period. The initial e-mail seemed legit from the outset; it had a solid sounding e-mail name 'edward@avalonflooringrecruit.com' and had a company logo in the signature. Being the expert that I am in this industry <em>&#42;sarcasm&#42;</em> I should have caught this. Below is a screenshot of the first e-mail that reeled me in.
 
 <div class="post-image-container">
     <img class="post-image" src="/assets/posts/scam-one1.png" alt="first screenshot of scam">
@@ -59,7 +59,7 @@ In the red rectangles you will see both the e-mail name and the signature of the
     <img class="post-image" src="/assets/posts/scam-two2.png" alt="second screenshot of scam">
   </div>
 
-This attachment was a PDF file that required you to fill out your name and then answer a series of questions pertaining to computer networking. In this same document it further stated the work schedule, benefits, and the pay range for this position. So of course, I answered the questions to the best of my knowledge I had relating to computer networking. Here was their response:
+This attachment was a PDF file that required you to fill out your name and then answer a series of questions pertaining to computer networking. In this same document it further stated the work schedule, benefits, and the pay range for this position. So of course, I answered the questions to the best of my knowledge I had relating to computer networking and here was their response.
 
  <div class="post-image-container">
     <img class="post-image" src="/assets/posts/scam-three3.png" alt="third screenshot of scam">
