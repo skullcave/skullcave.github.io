@@ -78,7 +78,7 @@ According to the FTC (2022) "in a fake check scam, a person you don’t know ask
 At this point I began to do a little digging. Starting with the basics, I found Avalon Flooring USA on LinkedIn.
 
 <div class="post-image-container">
-    <img class="post-image" src="/assets/posts/avalon-flooring2.png" alt="Avalon Flooring">
+    <img class="post-image" src="/assets/posts/avalon-flooring.png" alt="Avalon Flooring">
   </div>
   
 From here I searched the employees list for "Edward Robinson", no luck. Then, I called their number to inform them about a potential scam going around that is using their name to support it. Next, I was connected with a helpful customer service representative, and she explained to me that this scam has been ongoing for a while.
