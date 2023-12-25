@@ -83,7 +83,7 @@ At this point I began to do a little digging. Starting with the basics, I found 
   
 From here I searched the employees list for "Edward Robinson", no luck. Then, I called their number to inform them about a potential scam going around that is using their name to support it. Next, I was connected with a helpful customer service representative, and she explained to me that this scam has been ongoing for a while.
 
-<p style="text-align: center;"><strong><em>Key Takeaways</em></strong></p>
+<p style="text-align: center;"><strong>Key Takeaways</strong></p>
 
 I believe there are some important topics to discuss within this scenario. This e-mail is a cleverly crafted socially engineering scam that preys on individuals who are in search of a job. 
 
