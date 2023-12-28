@@ -41,7 +41,7 @@ date: 2023-11-9
 <h2 style="text-align: center; font-size: 20px;">How I Was Almost Scammed</h2>
 
 <div class="indented-text">
-  <i>January 8th, 2024</i><br><br>
+  January 8th, 2024<br><br>
   <i class="underline">Topics Discussed:</i> Phishing, Social Engineering, and Open-Source Intelligence (OSINT).<br><br>
   
   For my first post, I will be discussing the time I was almost scammed while applying for jobs. Furthermore, I will also look at how to identify misleading e-mails to avoid being scammed by potential bad actors.<br><br>
