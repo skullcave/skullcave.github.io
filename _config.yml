@@ -115,7 +115,7 @@ author:
       # url: "https://www.linkedin.com/in/sebastien-arseneault/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@skullcave"
+      # url: "https://www.youtube.com/@skullcave"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
