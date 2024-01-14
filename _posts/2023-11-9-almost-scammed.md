@@ -44,16 +44,16 @@ date: 2023-11-9
   January 8th, 2024<br><br>
   <i class="underline">Topics Discussed:</i> Phishing, Social Engineering, and Open-Source Intelligence (OSINT).<br><br>
   
-  For my first post, I will be discussing the time I was almost scammed while applying for jobs. Furthermore, I will also look at how to identify misleading e-mails to avoid being scammed by potential bad actors.<br><br>
+  For my first post, I will be discussing the time I was almost scammed while applying for jobs. I will also look at how to identify misleading e-mails to avoid being scammed by potential bad actors.<br><br>
   
-First, let's talk about how I found myself in this position and how I responded to it. On October 7th, 2023, I was emailed by an "HR Team" member with the company 'Avalon Flooring' about a job position titled Network Administrator. I thought great! I was in the process of applying for IT  and Cybersecurity related jobs. During this time, I sent out many applications and because of this, I forgot which companies I applied to. The initial email seemed legit from the outset; it had a solid sounding email name 'edward@avalonflooringrecruit.com' and had a company logo in the signature. Being the expert that I am in this industry <em>&#42;sarcasm&#42;</em> I should have caught this. Below is a screenshot of the first email that reeled me in.
+First, let's talk about how I found myself in this position and how I responded to it. On October 7th, 2023, I was emailed by an "HR Team" member with the company 'Avalon Flooring' about a job position titled Network Administrator. I thought great! I was in the process of applying for IT and Cybersecurity related jobs. During this time, I sent out many applications and because of this, I forgot which companies I applied to. The initial email seemed legit from the outset; it had a solid sounding email name 'edward@avalonflooringrecruit.com' and had a company logo in the signature. Being the expert that I am in this industry <em>&#42;sarcasm&#42;</em> I should have caught this. Below is a screenshot of the first email that reeled me in.
 
 <div class="post-image-container">
     <img class="post-image" src="/assets/posts/scam-one1.png" alt="first screenshot of scam">
   </div>
 
 
-In the red rectangles you will see both the email name and the signature of the email. At a quick glance this all seems normal but upon further inspection something seems phishy. It simply states "HR Team". Typically, employees of companies will list their position title along with what department they work in within their company. If I had caught this sooner, it might have raised some alarm bells in my head. Regardless, let’s see how this email chain progresses.
+In the red rectangles you will see both the email name and the signature of the email. At a quick glance this all seems normal but upon further inspection something seems phishy. It simply states "HR Team". Typically, employees of companies will list their position title along with what department they work in within their company. If I had caught this sooner, it might have raised some red flags. Regardless, let’s see how this email chain progresses.
 
    <div class="post-image-container">
     <img class="post-image" src="/assets/posts/scam-two2.png" alt="second screenshot of scam">
@@ -65,7 +65,7 @@ I replied letting "Edward" know that I was interested, and he followed up with a
     <img class="post-image" src="/assets/posts/scam-three3.png" alt="third screenshot of scam">
   </div>
 
-"Edward" let me know that his "team" would review my answers and decide as to whether I passed or not. In my opinion, this was the best part of the scam. Using the sense of scarcity and urgency, these scammers can get potential job applicants invested. Additionally, it took two days to hear back from the "recruiter" and this is what made me feel like this was legit. We have all been there, waiting on edge to see if we progressed in the hiring process, especially a remote job with lucrative pay. However, the content within this final email is what raised the alarm.
+"Edward" let me know that his "team" would review my answers and decide as to whether I passed or not. To me this was the most realistic part of the scam. Using the sense of scarcity and urgency, these scammers can get potential job applicants invested. Additionally, it took two days to hear back from the "recruiter" and this is what made me feel like this was legit. We have all been there, waiting on edge to see if we progressed in the hiring process, especially a remote job with lucrative pay. However, the content within this final email is what triggered the alarm.
 
 <div class="post-image-container">
     <img class="post-image" src="/assets/posts/scam-four4.png" alt="fourth screenshot of scam">
