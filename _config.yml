@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "(⌐⊙_⊙)"
+  name             : "(⌐⊙_⊙) - Shr00t"
   avatar           : "/assets/skull cave logo.png"   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "skullcave is a blog for discussing cybersecurity topics."
   location         : "the internet"
@@ -112,7 +112,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/sebastien-arseneault/"
+      url: "https://www.linkedin.com/in/sebastien-arseneault/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       # url: "https://www.youtube.com/@skullcave"
