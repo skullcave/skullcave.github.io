@@ -110,9 +110,9 @@ author:
   location         : "the internet"
   email            :
   links:
-    - label: "linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/sebastien-arseneault/"
+    #- label: "linkedin"
+     # icon: "fab fa-fw fa-linkedin"
+     # url: "https://www.linkedin.com/in/sebastien-arseneault/"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       # url: "https://www.youtube.com/@skullcave"
